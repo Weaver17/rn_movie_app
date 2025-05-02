@@ -2,11 +2,11 @@ import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
 const Onboarding = () => {
-  return (
-    <View>
-      <Text>Onboarding</Text>
-    </View>
-  );
+    return (
+        <View>
+            <Text>Onboarding</Text>
+        </View>
+    );
 };
 
 export default Onboarding;
