@@ -136,7 +136,7 @@ const MovieDetails = () => {
                 <Image
                     source={icons.arrow}
                     className="size-5 mr-1 mt-0.5 rotate-180"
-                    tintColor="#efefef"
+                    tintColor="#fff"
                 />
                 <Text className="text-white font-semibold text-base">
                     Go Back
